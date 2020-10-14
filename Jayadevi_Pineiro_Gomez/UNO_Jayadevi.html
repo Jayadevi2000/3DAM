@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>EJERCICIO 1</title> 
+             
+         <script type="text/javascript" >
+var ng_bool=false;
+		  window.onload = function () {   
+     
+
+        var btn = document.getElementById("anadir");
+        btn.onclick =crear;
+
+        var ng=document.getElementById("negrita");
+        ng.onclick=ennegrecer;
+
+        var br=document.getElementById("borrar");
+        br.onclick=eliminar;
+    }
+    function crear(){
+      var division=document.getElementById("contenedor");
+    var contenido_div=prompt("Por favor introduzca algún texto:");
+        var ng_bool;
+    if (ng_bool){
+      var ng_bool=document.createElement("strong");
+      var otro_contenido=document.createTextNode(contenido_div);
+      ng_bool.appendChild(otro_contenido);
+      var parrafo=document.createElement("p");
+      
+      parrafo.appendChild(ng_bool);
+      division.appendChild(parrafo);
+      
+      ng_bool=false;
+      
+    }
+    else{
+    
+      var otro_contenido=document.createTextNode(contenido_div);
+      
+      var parrafo=document.createElement("p");
+      
+      parrafo.appendChild(otro_contenido);
+      division.appendChild(parrafo); 
+    }
+    }
+    function ennegrecer(){
+
+               ng_bool=true;
+                alert("aaa");
+    }
+    function eliminar(){
+        var parrafo=document.getElementsByTagName("p");
+      
+      var cont=parrafo.length-1;
+        
+      parrafo[cont].parentNode.removeChild(parrafo[cont]);
+    
+    }
+
+		 </script>
+    </head>
+        <body>
+          
+          <div id="contenedor">
+             <div id="botones">
+				<input type="button" id="anadir" value="AÑADIR PARRAFO">
+				<input type="button" id="negrita" value="NEGRITA">
+				<input type="button" id="borrar" value="BORRAR PARRAFO">
+              </div>
+			  
+          </div>    
+          
+        </body>
+</html>

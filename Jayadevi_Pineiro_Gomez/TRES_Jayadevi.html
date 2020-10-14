@@ -1,0 +1,87 @@
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<title>Abstracto</title>
+			
+			<script type="text/javascript" >
+				var blanco="";
+				window.onload = function () {
+		var lista =document.getElementById("lista1")
+		lista.onchange = rellenar;
+		var opciones= document.getElementsByName("opciones");
+		for(i=0;i<opciones.length;i++){
+			opciones[i].onclick=colores;	
+		}
+	}
+
+	function rellenar(){
+	var segunda_lista=document.getElementById("lista2")
+	segunda_lista.length=0; 
+		var val=document.getElementById(this.id).value;
+		for(i = 1; i<=3;i++){
+			var opcion =document.createElement("option");
+			opcion.setAttribute("value" , val+i);
+			var contenido=document.createTextNode(val+i);
+			opcion.appendChild(contenido);
+			document.getElementById("lista2").appendChild(opcion);
+		}
+	}
+		
+
+	function colores(){
+		var val=document.getElementById(this.id).value;
+		switch(val){
+			case 'negro':
+				alert("usted ha seleccionado la opción negro")
+			case 'blanco':
+				var opcion_escogida = document.getElementById("lista2").value;
+				if(opcion_escogida==blanco){
+					alert("No hay ninguna opcion seleccionada");
+				}else{
+					alert("La opción seleccionada de la segunda lista es " + opcion_escogida);
+				}
+				break;
+			case 'marron':
+				var click =document.createElement("input");
+				click.setAttribute("value" , "Hola");
+				click.setAttribute("type" , "button");
+				document.getElementById("contenedor").appendChild(click);
+				break;
+		}
+	}
+			</script>
+		</head>
+		<body>
+			<h1>Abstracto</h1>
+			<form>
+				<table>
+					<tr>
+						<td>
+							<select id="lista1" size="3">
+								<option value="uno">Uno</option>
+								<option value="dos">Dos</option>
+								<option value="tres">Tres</option>
+							</select>
+						</td>
+						<td>
+							<select id="lista2" size="3">
+					
+							</select>
+						</td>
+						<td>
+							<input type="radio" name="opciones" id ="negro" value="negro" /> Negro<br />
+							<input type="radio" name="opciones" id ="blanco" value="blanco" /> Blanco<br />
+							<input type="radio" name="opciones" id ="marron" value="marron" /> Marron
+						</td>
+					</tr>
+					<tr>
+						<td colspan="3" id="contenedor">
+						</td>
+					</tr>
+			</form>
+			<noscript>
+				<p>No esta activado el soporte JavaScript</p>
+			</noscript>
+		</body>
+	</html>
