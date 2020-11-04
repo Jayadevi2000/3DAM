@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T09:42:39.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.9-1" etag="tVHV_5AV_9q6AEVZ_Cc-" type="github"><diagram id="TumvB3jtfq2kJoedRNaW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-04T10:00:45.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UU74MNrSd5nArnCPKKOw" version="13.8.9-1" type="github">
+  <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
+    <mxGraphModel dx="2067" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Lucida Caligraphy;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="30" width="630" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-2" value="&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;i&gt;&lt;b&gt;START&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;Estás en la calle con tu amigo, y de repente se oyen disparos. Se oyen muchos gritos ,&amp;nbsp;&lt;/div&gt;&lt;div&gt;y aparece un grupo de zombies veloces que van mordiendo a la gente.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;¿Qué haces?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Huyes corriendo hacia algún lugar seguro.&lt;/div&gt;&lt;div&gt;2.- Te paras a ayudar a las personas que están siendo mordidas.&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="60" width="560" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="820" y="30" width="500" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-6" value="&lt;b&gt;1.- HAS ESCOGIDO LA 1º OPCIÓN&lt;br&gt;&lt;br&gt;Te has escondido en un callejón estrecho por donde los zombies&amp;nbsp;&lt;br&gt;ni la gente no se ha percatado todavía .&amp;nbsp;&lt;br&gt;¿Qué decides hacer ahora?&lt;br&gt;&lt;br&gt;1.- Buscar víveres ,un arma o algo con lo que defenderte&lt;br&gt;&amp;nbsp;y un lugar donde quedarte.&lt;br&gt;&lt;br&gt;2.- Te arriesgas a salir y buscas la forma para llegar a tu casa&lt;br&gt;para buscar a tus seres queridos.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="825" y="-55" width="450" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
