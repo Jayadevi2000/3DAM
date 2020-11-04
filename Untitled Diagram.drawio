@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T17:07:31.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IQv2l3MZeI0z_kBJMPG-" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T17:08:57.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TlS6QSiOxlM1jvsN8hOQ" version="13.8.9-1" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="10471" dy="5356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3307" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-15" value="1.2-&lt;br&gt;Al salir , te das cuenta que la situación ha empeorado , hay demasiados zombies&amp;nbsp;&lt;br&gt;y se percatan de vuestra presencia .Tienes que huir y son demasiados . Sabes&lt;br&gt;que no vais a salir tu amigo y tú con vida. Hay que tomar medidas extremas.&lt;br&gt;&lt;br&gt;1.- Traicionas a tu amigo y lo lanzas a los zombies mientras&amp;nbsp;para huir.&lt;br&gt;&lt;br&gt;2.- Aún sabiendo que va a ser inútil , luchas con tu amigo contra los zombies&amp;nbsp;&lt;br&gt;hasta la muerte.&lt;br&gt;&lt;br&gt;3.- Te sacrificas para que tu amigo escape." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="832" y="410" width="520" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 60px&quot;&gt;GAME OVER&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="827" y="970" width="540" height="390" as="geometry" />
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 60px&quot;&gt;GAME OVER&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="810" width="540" height="390" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-19" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1950" y="2140" width="40" height="20" as="geometry" />
