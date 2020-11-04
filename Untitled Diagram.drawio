@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T17:08:57.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TlS6QSiOxlM1jvsN8hOQ" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T20:09:57.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="1H2HJfP0qYO4eslMRHex" version="13.8.9-1" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="3307" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="820" y="400" width="530" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-15" value="1.2-&lt;br&gt;Al salir , te das cuenta que la situación ha empeorado , hay demasiados zombies&amp;nbsp;&lt;br&gt;y se percatan de vuestra presencia .Tienes que huir y son demasiados . Sabes&lt;br&gt;que no vais a salir tu amigo y tú con vida. Hay que tomar medidas extremas.&lt;br&gt;&lt;br&gt;1.- Traicionas a tu amigo y lo lanzas a los zombies mientras&amp;nbsp;para huir.&lt;br&gt;&lt;br&gt;2.- Aún sabiendo que va a ser inútil , luchas con tu amigo contra los zombies&amp;nbsp;&lt;br&gt;hasta la muerte.&lt;br&gt;&lt;br&gt;3.- Te sacrificas para que tu amigo escape." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-15" value="1.2-&lt;br&gt;Al salir , te das cuenta que la situación ha empeorado , hay demasiados zombies&amp;nbsp;&lt;br&gt;y se percatan de vuestra presencia .Tienes que huir y son demasiados . Sabes&lt;br&gt;que no vais a salir tu amigo y tú con vida. Hay que tomar medidas extremas.&lt;br&gt;&lt;br&gt;1.- Traicionas a tu amigo y lo lanzas a los zombies&amp;nbsp; para huir.&lt;br&gt;&lt;br&gt;2.- Aún sabiendo que va a ser inútil , luchas con tu amigo contra los zombies&amp;nbsp;&lt;br&gt;hasta la muerte.&lt;br&gt;&lt;br&gt;3.- Te sacrificas para que tu amigo escape." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="832" y="410" width="520" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 60px&quot;&gt;GAME OVER&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#FF6666;" vertex="1" parent="1">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-24" value="&lt;h1&gt;&lt;span&gt;2º Opción&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;Ayudaste a una persona mordida que rápidamente se convirtió y te mató.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-26" value="1.1-" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1967" y="70" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
