@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T08:54:52.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="fVvWBjZoQcIUk3J4fiKx" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T09:18:34.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ndduJF6gHLJrbfgbTNUe" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="2067" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1654" y="45" width="666" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-13" value="Has trepado por unos tubos junto con tu amigo , y has roto la ventana de un apartamento&lt;br&gt;&amp;nbsp;cuyo propietario no está. Decides esperar y ver que dicen en las noticias y &lt;br&gt;en la radio sobre la&amp;nbsp;situación." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1702" y="120" width="570" height="60" as="geometry" />
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-13" value="Has trepado por unos tubos junto con tu amigo , y has roto la ventana de un apartamento&lt;br&gt;&amp;nbsp;cuyo propietario no está. Decides esperar y ver que dicen en las noticias y &lt;br&gt;en la radio sobre la&amp;nbsp;situación. Buscas alimentos que&amp;nbsp; tenga el propietario .&lt;br&gt;Hay alimentos para dos semanas, pero más frescos que enlatados.&lt;br&gt;¿Qué decides hacer?&lt;br&gt;&lt;br&gt;1.- Quedarte unas semanas con tu amigo alimentándote primero de lo fresco.&lt;br&gt;&lt;br&gt;2.- Coger los alimentos enlatados , algunos frescos , algunas cosas para defenderte&lt;br&gt;(bate de beisbol ,cuchillos) y una radio portátil.&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1702" y="60" width="570" height="180" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-14" target="l0OJAWfN0QNwZ4EXdsEu-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="8rFJarjfxFBORZC3riLU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2660" y="40" width="470" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="8rFJarjfxFBORZC3riLU-4" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="8rFJarjfxFBORZC3riLU-4" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2660" y="40" width="470" height="270" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
