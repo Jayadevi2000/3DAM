@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T08:49:55.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UofDNJGTnD0rosiCid-K" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T08:53:37.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Cy2aPW4qDN2UEgha2h1A" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-4" target="l0OJAWfN0QNwZ4EXdsEu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.489;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-4" target="l0OJAWfN0QNwZ4EXdsEu-15" edge="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-4" target="l0OJAWfN0QNwZ4EXdsEu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -28,8 +28,11 @@
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-6" value="&lt;b&gt;1.- HAS ESCOGIDO LA 1º OPCIÓN&lt;br&gt;&lt;br&gt;Te has escondido en un callejón estrecho por donde los zombies&amp;nbsp;&lt;br&gt;ni la gente no se ha percatado todavía .&amp;nbsp;&lt;br&gt;¿Qué decides hacer ahora?&lt;br&gt;&lt;br&gt;1.- Buscar víveres ,un arma o algo con lo que defenderte&lt;br&gt;&amp;nbsp;y un lugar donde quedarte.&lt;br&gt;&lt;br&gt;2.- Te arriesgas a salir y buscas la forma para llegar a tu casa&lt;br&gt;para buscar a tus seres queridos junto con tu amigo&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="845" y="30" width="450" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-12" target="8rFJarjfxFBORZC3riLU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1654" y="40" width="666" height="260" as="geometry" />
+          <mxGeometry x="1654" y="45" width="666" height="260" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-13" value="Has trepado por unos tubos junto con tu amigo , y has roto la ventana de un apartamento&lt;br&gt;&amp;nbsp;cuyo propietario no está. Decides esperar y ver que dicen en las noticias y &lt;br&gt;en la radio sobre la&amp;nbsp;situación." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1702" y="120" width="570" height="60" as="geometry" />
@@ -40,11 +43,14 @@
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-14" target="l0OJAWfN0QNwZ4EXdsEu-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-14" target="8rFJarjfxFBORZC3riLU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="820" y="400" width="530" height="260" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-15" value="1.2-&lt;br&gt;Al salir , te das cuenta que la situación ha empeorado , hay demasiados zombies&amp;nbsp;&lt;br&gt;y se percatan de vuestra presencia .Tienes que huir y son demasiados . Sabes&lt;br&gt;que no vais a salir tu amigo y tú con vida. Hay que tomar medidas extremas.&lt;br&gt;&lt;br&gt;1.- Traicionas a tu amigo y lo lanzas a los zombies&amp;nbsp; para huir.&lt;br&gt;&lt;br&gt;2.- Aún sabiendo que va a ser inútil , luchas con tu amigo contra los zombies&amp;nbsp;&lt;br&gt;hasta la muerte.&lt;br&gt;&lt;br&gt;3.- Te sacrificas para que tu amigo escape." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="832" y="410" width="520" height="190" as="geometry" />
+          <mxGeometry x="825" y="420" width="520" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 60px&quot;&gt;GAME OVER&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="-170" y="810" width="540" height="390" as="geometry" />
@@ -62,10 +68,10 @@
           <mxGeometry x="1967" y="70" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="805" y="890" width="530" height="270" as="geometry" />
+          <mxGeometry x="805" y="820" width="530" height="270" as="geometry" />
         </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-2" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="810" y="900" width="510" height="250" as="geometry" />
+          <mxGeometry x="815" y="830" width="510" height="250" as="geometry" />
         </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2660" y="40" width="470" height="270" as="geometry" />
