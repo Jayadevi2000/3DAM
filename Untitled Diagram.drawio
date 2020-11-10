@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T12:52:05.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HrixjKWK1uneRuB4wC2z" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T16:25:20.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dEoW1429bPTcy_4FoCLD" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4299" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,9 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--14" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="4010" y="90" width="340" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--15" target="uLf2W3OkuAJnaL3Q7dk--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--15" value="&lt;h1&gt;&lt;span&gt;Andando por el edificio(I)&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;Nada más salir te das cuenta de que hay bastante sangre por los pasillos y algunas viviendas que tienen las puertas abiertas, pero aparentemente no se escucha nada. Bajas un piso , y te topas con dos zombies merodeantes que no notan tu presencia , pero eres torpe y sin querer golpeas una lata que estaba en el suelo y corren hacia ti. ¿Qué eliges?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1.- Cargártelos con el bate .&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Bajar rápidamente a la calle , arriesgándote de que el ruido que se genera atraiga más zombies&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="4020" y="100" width="320" height="240" as="geometry" />
         </mxCell>
@@ -118,7 +121,7 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--19" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra la comisaría ,pero hay demasiados zombies para poder entrar.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
       </root>
