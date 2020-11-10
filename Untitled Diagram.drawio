@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T12:51:16.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="NC5q8FWvepi5LM0Z68Pn" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T12:52:05.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HrixjKWK1uneRuB4wC2z" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
     <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--19" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
       </root>
