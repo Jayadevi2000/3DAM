@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T16:34:25.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="XeJrayXxrLBsGNsjeRbe" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T07:20:11.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qxOWPJW3UtnZplpw3eUP" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="2274" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="480" width="720" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--10" value="&lt;h1&gt;Sobreviviendo / Viajando&lt;/h1&gt;&lt;div&gt;Cuando ya han disminuido los zombies en la zona, te dispones a salir con tu amigo. En camino a casa o de algún lugar donde haya seguridad. Con la situación dada, no hay más remedio que hacer paradas para descansar y enconderse.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--10" value="&lt;h1&gt;Sobreviviendo / Viajando&lt;/h1&gt;&lt;div&gt;Cuando ya han disminuido los zombies en la zona, te dispones a salir con tu amigo. En camino a casa o de algún lugar donde haya seguridad. Con la situación dada, no hay más remedio que hacer paradas para descansar y enconderse. Al fin después de 4 días, llegas a casa, pero nada más ver la puerta ensangrentada y destrozada , te imaginas lo peor.&lt;/div&gt;&lt;div&gt;Al entrar al piso no hay nadie y ves una nota en la mesa del comedor diciendo que el día de la catástrofe el ejército se los llevó a un lugar a salvo.&lt;/div&gt;&lt;div&gt;¿Qué haces ahora?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.-Restauras la puerta , descansas unos días y buscas ese lugar donde está el ejército.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Esa misma noche ya vate diriges hacia ese lugar seguro.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1650" y="480" width="720" height="360" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--11" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
