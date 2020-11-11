@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T08:29:50.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2gVxk-uOCiUn4g55KAQW" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T08:40:58.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="keCdHJJgZlAwcGZra-Gy" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1677" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,8 +262,23 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--77" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2620" y="1590" width="370" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--78" value="&lt;h1&gt;En grupo&lt;/h1&gt;&lt;div&gt;Al poco tiempo por las calles, te topas con una gran horda , y con tanta&amp;nbsp; gente es difícil evitarlos sin inconvenientes. Pero con mucho esfuerzo conseguís salir y aparentemente nadie salió herido.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--78" target="uLf2W3OkuAJnaL3Q7dk--80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--78" value="&lt;h1&gt;En grupo&lt;/h1&gt;&lt;div&gt;Al poco tiempo por las calles, te topas con una gran horda , y con tanta&amp;nbsp; gente es difícil evitarlos sin inconvenientes. Pero con mucho esfuerzo conseguís salir y aparentemente nadie salió herido.&lt;/div&gt;&lt;div&gt;El grupo decide coger un coche y llegar a la zona para ir más rápido. Y luego conseguir un lugar donde quedarse hasta el día.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="2630" y="1610" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--79" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="1635" width="310" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--80" value="&lt;h1&gt;El día(I)&lt;/h1&gt;&lt;div&gt;Llegó ese día , y estaban los militares rescatando gente. Pero la todos los hacía desnudarse en una tienda de campaña grande para revisar que no haya gente infectada. Esperando se vio a un grupo donde había un infectado donde los militares nada más verlo dispararon a la cabeza a sin pensarlo. Cuando éramos los siguientes resultó que había un infectado en el grupo .&lt;/div&gt;&lt;div&gt;Todo el grupo se quejó , y los militares les dieron dos opciones o largarse o los no infectados quedarse.&lt;/div&gt;&lt;div&gt;Todo el grupo estaba de acuerdo en largarse.&lt;/div&gt;&lt;div&gt;¿Qué decides hacer?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Traicionar al grupo e iros con los militares.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Ser leales e ir con el grupo.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="1640" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--82" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="1720" width="360" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--83" value="&lt;font style=&quot;font-size: 55px&quot;&gt;WIN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4110" y="1730" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
