@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T07:55:49.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mfaU-5HEbzKTeG8Gr3Zc" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T07:59:30.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YQnIGMN35gzyu5BHtfZz" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="2067" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="8rFJarjfxFBORZC3riLU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="805" y="820" width="530" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="8rFJarjfxFBORZC3riLU-2" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="8rFJarjfxFBORZC3riLU-2" value="&lt;h1&gt;Traición&lt;/h1&gt;&lt;div&gt;Después de traicionar a tu amigo te las apañas para conseguir algo con lo que defenderte y algún lugar donde descansar.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="815" y="830" width="510" height="250" as="geometry" />
         </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
