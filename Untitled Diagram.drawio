@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T07:20:11.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qxOWPJW3UtnZplpw3eUP" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T07:24:17.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="DXbeA79R9IsAwygs3NJH" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
     <mxGraphModel dx="1695" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,14 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8rFJarjfxFBORZC3riLU-4" target="uLf2W3OkuAJnaL3Q7dk--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8rFJarjfxFBORZC3riLU-4" target="uLf2W3OkuAJnaL3Q7dk--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-4" value="&lt;h1&gt;Apartamento&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;A &lt;/span&gt;&lt;font size=&quot;1&quot;&gt;medida que pasan los días la situación no mejora en absoluto. Hay pocos canales de&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;televisión donde cuyos informativos son muy intermitentes. En la radio hay algo más de información.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Los hospitales están colapsados de zombies .No hay internet. No hay policía y del ejército no hay noticias.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;1.-&amp;nbsp; Empiezas a buscar estaciones de policía cercanas para buscar nuevas comunicaciones.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;(El amigo se queda en casa).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;2.-Decides buscar supervivientes por la zona y buscar información.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2660" y="40" width="470" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--8" target="uLf2W3OkuAJnaL3Q7dk--24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="480" width="720" height="370" as="geometry" />
@@ -123,6 +129,15 @@
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra la comisaría ,pero hay demasiados zombies para poder entrar.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1692" y="1000" width="590" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--27" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="500" width="460" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--29" value="&lt;h1&gt;Buscando supervivientes e info(I)&lt;/h1&gt;&lt;div&gt;Donde buscas primero es en el mismo edificio y en edificios próximos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="500" width="460" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
