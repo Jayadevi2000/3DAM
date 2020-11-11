@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T07:41:15.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="x6xB1V0VmbkuwDu8VeWw" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T07:55:49.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mfaU-5HEbzKTeG8Gr3Zc" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1848" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="480" width="720" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--10" target="uLf2W3OkuAJnaL3Q7dk--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--10" value="&lt;h1&gt;Sobreviviendo / Viajando&lt;/h1&gt;&lt;div&gt;Cuando ya han disminuido los zombies en la zona, te dispones a salir con tu amigo. En camino a casa o de algún lugar donde haya seguridad. Con la situación dada, no hay más remedio que hacer paradas para descansar y enconderse. Al fin después de 4 días, llegas a casa, pero nada más ver la puerta ensangrentada y destrozada , te imaginas lo peor.&lt;/div&gt;&lt;div&gt;Al entrar al piso no hay nadie y ves una nota en la mesa del comedor diciendo que el día de la catástrofe el ejército se los llevó a un lugar a salvo.&lt;/div&gt;&lt;div&gt;¿Qué haces ahora?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.-Restauras la puerta , descansas unos días y buscas ese lugar donde está el ejército.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Esa misma noche ya vate diriges hacia ese lugar seguro.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1650" y="480" width="720" height="360" as="geometry" />
         </mxCell>
@@ -133,6 +136,9 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--19" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--20" target="uLf2W3OkuAJnaL3Q7dk--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra la comisaría ,pero hay demasiados zombies para poder entrar.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
@@ -162,6 +168,15 @@
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--39" value="&lt;h1&gt;Huida zombies(I)&lt;/h1&gt;&lt;p&gt;Fue una decisión bastante errónea , porque gastaste mucha energía , despistaste a algunos zombies , pero no queda otra que luchar&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="4240" y="600" width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--42" value="&lt;h1&gt;&lt;span&gt;Buscando al ejército&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Buscando entre calles , te encuentras con un numeroso grupo de supervivientes (12)&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;y ya que tienen en el mismo propósito no les importa, además tienen cierta información de que se van a reunir en el sur de la ciudad dentro de 3 días para recoger supervivientes.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;¿Qué decides ?&lt;/div&gt;&lt;div&gt;1.- Ir por tu cuenta junto con tu amigo.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Ir en grupo.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1035" width="500" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--44" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5180" y="500" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--46" value="&lt;h1&gt;Comisarías(I)&lt;/h1&gt;&lt;div&gt;Te las arreglas despistánolos haciendo sonar la alarma de un par de calles más adelante para que se vayan . Una vez hecho eso. Al entrar te encuentras con un par de armas, y hay un cuarto donde tienen unos aparatos empotrados a un mueble con los que te puedes comunicar con mucha gente.&lt;/div&gt;&lt;div&gt;Escuchas que están enviando un mensaje repetido. &quot;Dentro de 2 días nos reuniremos en el sur de la ciudad para recoger supervivientes&quot;.&lt;/div&gt;&lt;div&gt;¿Qué haces?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Pruebas a hablar para ver si alguien te contesta.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Vas directamente de vuelta a casa para avisar a tu amigo.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="510" width="330" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
