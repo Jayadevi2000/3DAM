@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T07:24:17.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="DXbeA79R9IsAwygs3NJH" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T07:41:15.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="x6xB1V0VmbkuwDu8VeWw" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1695" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,9 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--13" target="uLf2W3OkuAJnaL3Q7dk--14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--13" target="uLf2W3OkuAJnaL3Q7dk--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--13" value="&lt;h1&gt;BUSCANDO COMISARÍAS&lt;/h1&gt;&lt;div&gt;¿Cómo piensas salir?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Por la puerta , arriesgándote de los zombies que puedan andar por el edificio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- De la misma manera en la que te subiste, por las barras , arriesgándote a una buena caída.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="3400" y="70" width="380" height="210" as="geometry" />
         </mxCell>
@@ -110,6 +113,9 @@
           <mxGeometry x="4010" y="90" width="340" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--15" target="uLf2W3OkuAJnaL3Q7dk--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--15" target="uLf2W3OkuAJnaL3Q7dk--37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--15" value="&lt;h1&gt;&lt;span&gt;Andando por el edificio(I)&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;Nada más salir te das cuenta de que hay bastante sangre por los pasillos y algunas viviendas que tienen las puertas abiertas, pero aparentemente no se escucha nada. Bajas un piso , y te topas con dos zombies merodeantes que no notan tu presencia , pero eres torpe y sin querer golpeas una lata que estaba en el suelo y corren hacia ti. ¿Qué eliges?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1.- Cargártelos con el bate .&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Bajar rápidamente a la calle , arriesgándote de que el ruido que se genera atraiga más zombies&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
@@ -134,10 +140,28 @@
           <mxGeometry x="1692" y="1000" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--27" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="500" width="460" height="130" as="geometry" />
+          <mxGeometry x="2670" y="500" width="450" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--29" value="&lt;h1&gt;Buscando supervivientes e info(I)&lt;/h1&gt;&lt;div&gt;Donde buscas primero es en el mismo edificio y en edificios próximos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="500" width="460" height="130" as="geometry" />
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--29" value="&lt;h1&gt;Buscando supervivientes e info(I)&lt;/h1&gt;&lt;div&gt;Donde buscas primero es en el mismo edificio y en edificios próximos.&lt;/div&gt;&lt;div&gt;Resulta que en el último piso del edificio en el que te encuentras hay una pareja de jóvenes. Al día siguiente vas hacia ese lugar , matando zombies por el amino poco a poco. Cuando llegas y llamas piensas que te recibirían bien, pero nada más verte te amenazan para que les des todos tu víveres y armas. ¿Qué haces?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. - Darles todo lo que piden.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Intentar huir y sino puedes, matarlos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="540" width="440" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--30" target="l0OJAWfN0QNwZ4EXdsEu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--30" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3510" y="1130" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--32" value="&lt;h1&gt;Bajando por el tubo&lt;/h1&gt;&lt;div&gt;Te arriesgaste demasiado , caíste mal y te torciste el tobillo además de que atraiste a varios zombies. No consigues escapar y te muerden.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3587" y="1200" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--37" target="uLf2W3OkuAJnaL3Q7dk--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--37" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="510" width="650" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--39" value="&lt;h1&gt;Huida zombies(I)&lt;/h1&gt;&lt;p&gt;Fue una decisión bastante errónea , porque gastaste mucha energía , despistaste a algunos zombies , pero no queda otra que luchar&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4240" y="600" width="480" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
