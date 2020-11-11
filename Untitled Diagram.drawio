@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T09:14:40.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="vgfWeiiuK1pMBPVrL0j_" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T09:17:54.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2_b5eTIeZaoa9KOni7gW" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1677" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2527" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,8 +328,23 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--97" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="960" y="1520" width="580" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--99" value="&lt;h1&gt;Reencuentro&lt;/h1&gt;&lt;div&gt;Allí te encuentras con tu familia , pero también con la familia de tu amigo y se preguntan qué pasó.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;¿Qué decides hacer?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Les mientes, les cuentas una tragedia cualquiera.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.-&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1580" width="190" height="120" as="geometry" />
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--99" target="uLf2W3OkuAJnaL3Q7dk--83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--99" target="uLf2W3OkuAJnaL3Q7dk--104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--99" value="&lt;h1&gt;Reencuentro&lt;/h1&gt;&lt;div&gt;Allí te encuentras con tu familia , pero también con la familia de tu amigo y se preguntan qué pasó.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;¿Qué decides hacer?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Les mientes, les cuentas una tragedia cualquiera.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Les cuentas la verdad.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1520" width="580" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.359;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--103" target="l0OJAWfN0QNwZ4EXdsEu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--103" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1450" width="610" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--104" value="Al contarle la verdad se enfadan tanto que te matan y empieza una masacre entre familias." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1520" width="590" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
