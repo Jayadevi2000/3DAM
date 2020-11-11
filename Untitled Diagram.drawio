@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T07:59:30.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YQnIGMN35gzyu5BHtfZz" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T08:02:26.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="aO49okBScpzxavi0zRyK" version="13.9.2" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="1695" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,11 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--20" value="&lt;h1&gt;Calles(I)&lt;/h1&gt;&lt;div&gt;Consigues salir al exterior sin más problemas. En la calle hay algún zombie comiéndose algún que otro cuerpo tirado , pero si vas silencioso se consigue pasar sin problemas. Pasadas un par de manzanas al norte de la vivienda , se encuentra la comisaría ,pero hay demasiados zombies para poder entrar.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5190" y="110" width="380" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uLf2W3OkuAJnaL3Q7dk--24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="1765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1692" y="1000" width="590" height="280" as="geometry" />
         </mxCell>
@@ -177,6 +182,12 @@
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--46" value="&lt;h1&gt;Comisarías(I)&lt;/h1&gt;&lt;div&gt;Te las arreglas despistánolos haciendo sonar la alarma de un par de calles más adelante para que se vayan . Una vez hecho eso. Al entrar te encuentras con un par de armas, y hay un cuarto donde tienen unos aparatos empotrados a un mueble con los que te puedes comunicar con mucha gente.&lt;/div&gt;&lt;div&gt;Escuchas que están enviando un mensaje repetido. &quot;Dentro de 2 días nos reuniremos en el sur de la ciudad para recoger supervivientes&quot;.&lt;/div&gt;&lt;div&gt;¿Qué haces?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.- Pruebas a hablar para ver si alguien te contesta.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Vas directamente de vuelta a casa para avisar a tu amigo.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="5200" y="510" width="330" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--48" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1770" width="340" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--49" value="&lt;h1&gt;Ir con tu amigo&lt;/h1&gt;&lt;div&gt;Decides ir con tu amigo y en recompensa por la información les das un par de latas de comida.&lt;/div&gt;&lt;div&gt;Continúas con tu objetivo ,&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1820" width="250" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
