@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T09:00:06.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xAe7qVIWJG_fwK-7BAfo" version="13.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T09:17:50.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="t-16Vd8affJmHp1CUSvB" version="13.9.5" type="github">
   <diagram id="TumvB3jtfq2kJoedRNaW" name="Page-1">
-    <mxGraphModel dx="2527" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,10 +22,10 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-4" target="l0OJAWfN0QNwZ4EXdsEu-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="820" y="30" width="500" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-6" value="&lt;b&gt;1.- HAS ESCOGIDO LA 1º OPCIÓN&lt;br&gt;&lt;br&gt;Te has escondido en un callejón estrecho por donde los zombies&amp;nbsp;&lt;br&gt;ni la gente no se ha percatado todavía .&amp;nbsp;&lt;br&gt;¿Qué decides hacer ahora?&lt;br&gt;&lt;br&gt;1.- Buscar víveres ,un arma o algo con lo que defenderte&lt;br&gt;&amp;nbsp;y un lugar donde quedarte.&lt;br&gt;&lt;br&gt;2.- Te arriesgas a salir y buscas la forma para llegar a tu casa&lt;br&gt;para buscar a tus seres queridos junto con tu amigo&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-6" value="&lt;b&gt;1.- HAS ESCOGIDO LA 1º OPCIÓN&lt;br&gt;&lt;br&gt;Te has escondido en un callejón estrecho por donde los zombies&amp;nbsp;&lt;br&gt;ni la gente no se ha percatado todavía .&amp;nbsp;&lt;br&gt;¿Qué decides hacer ahora?&lt;br&gt;&lt;br&gt;1.- Buscar víveres ,un arma o algo con lo que defenderte&lt;br&gt;&amp;nbsp;y un lugar donde quedarte.&lt;br&gt;&lt;br&gt;2.- Te arriesgas a salir y buscas la forma para llegar a tu casa&lt;br&gt;para buscar a tus seres queridos junto con tu amigo&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="845" y="30" width="450" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-12" target="8rFJarjfxFBORZC3riLU-4" edge="1">
@@ -34,10 +34,10 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-12" target="uLf2W3OkuAJnaL3Q7dk--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1654" y="45" width="666" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-13" value="Has trepado por unos tubos junto con tu amigo , y has roto la ventana de un apartamento&lt;br&gt;&amp;nbsp;cuyo propietario no está. Decides esperar y ver que dicen en las noticias y &lt;br&gt;en la radio sobre la&amp;nbsp;situación. Buscas alimentos que&amp;nbsp; tenga el propietario .&lt;br&gt;Hay alimentos para dos semanas, pero más frescos que enlatados.&lt;br&gt;¿Qué decides hacer?&lt;br&gt;&lt;br&gt;1.- Quedarte unas semanas con tu amigo alimentándote primero de lo fresco.&lt;br&gt;&lt;br&gt;2.- Coger los alimentos enlatados , algunos frescos , algunas cosas para defenderte&lt;br&gt;(bate de beisbol ,cuchillos) y una radio portátil.&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-13" value="Has trepado por unos tubos junto con tu amigo , y has roto la ventana de un apartamento&lt;br&gt;&amp;nbsp;cuyo propietario no está. Decides esperar y ver que dicen en las noticias y &lt;br&gt;en la radio sobre la&amp;nbsp;situación. Buscas alimentos que&amp;nbsp; tenga el propietario .&lt;br&gt;Hay alimentos para dos semanas, pero más frescos que enlatados.&lt;br&gt;¿Qué decides hacer?&lt;br&gt;&lt;br&gt;1.- Quedarte unas semanas con tu amigo alimentándote primero de lo fresco.&lt;br&gt;&lt;br&gt;2.- Coger los alimentos enlatados , algunos frescos , algunas cosas para defenderte&lt;br&gt;(bate de beisbol ,cuchillos) y una radio portátil.&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1702" y="60" width="570" height="180" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-14" target="l0OJAWfN0QNwZ4EXdsEu-18" edge="1">
@@ -49,10 +49,10 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l0OJAWfN0QNwZ4EXdsEu-14" target="8rFJarjfxFBORZC3riLU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="820" y="400" width="530" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-15" value="1.2-&lt;br&gt;Al salir , te das cuenta que la situación ha empeorado , hay demasiados zombies&amp;nbsp;&lt;br&gt;y se percatan de vuestra presencia .Tienes que huir y son demasiados . Sabes&lt;br&gt;que no vais a salir tu amigo y tú con vida. Hay que tomar medidas extremas.&lt;br&gt;&lt;br&gt;1.- Traicionas a tu amigo y lo lanzas a los zombies&amp;nbsp; para huir.&lt;br&gt;&lt;br&gt;2.- Aún sabiendo que va a ser inútil , luchas con tu amigo contra los zombies&amp;nbsp;&lt;br&gt;hasta la muerte.&lt;br&gt;&lt;br&gt;3.- Te sacrificas para que tu amigo escape." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="l0OJAWfN0QNwZ4EXdsEu-15" value="1.2-&lt;br&gt;Al salir , te das cuenta que la situación ha empeorado , hay demasiados zombies&amp;nbsp;&lt;br&gt;y se percatan de vuestra presencia .Tienes que huir y son demasiados . Sabes&lt;br&gt;que no vais a salir tu amigo y tú con vida. Hay que tomar medidas extremas.&lt;br&gt;&lt;br&gt;1.- Traicionas a tu amigo y lo lanzas a los zombies&amp;nbsp; para huir.&lt;br&gt;&lt;br&gt;2.- Aún sabiendo que va a ser inútil , luchas con tu amigo contra los zombies&amp;nbsp;&lt;br&gt;hasta la muerte.&lt;br&gt;&lt;br&gt;3.- Te sacrificas para que tu amigo escape." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="825" y="420" width="520" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l0OJAWfN0QNwZ4EXdsEu-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 60px&quot;&gt;GAME OVER&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#FF6666;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-2" value="&lt;h1&gt;Traición (amistad)&lt;/h1&gt;&lt;div&gt;Después de tu traición solo buscas un lugar donde quedarte , cogiendo víveres y algún arma para sobrevivir.&lt;/div&gt;&lt;div&gt;Hasta que un día oyes en la radio del lugar donde te refugiaste que llega el ejército para recoger supervivientes.&lt;/div&gt;&lt;div&gt;Te diriges hacia ese lugar, pasas las restricciones y te llevan hacia el lugar seguro.&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="815" y="830" width="510" height="250" as="geometry" />
+          <mxGeometry x="810" y="820" width="520" height="270" as="geometry" />
         </mxCell>
         <mxCell id="8rFJarjfxFBORZC3riLU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2660" y="40" width="470" height="270" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--10" value="&lt;h1&gt;Sobreviviendo / Viajando&lt;/h1&gt;&lt;div&gt;Cuando ya han disminuido los zombies en la zona, te dispones a salir con tu amigo. En camino a casa o de algún lugar donde haya seguridad. Con la situación dada, no hay más remedio que hacer paradas para descansar y enconderse. Al fin después de 4 días, llegas a casa, pero nada más ver la puerta ensangrentada y destrozada , te imaginas lo peor.&lt;/div&gt;&lt;div&gt;Al entrar al piso no hay nadie y ves una nota en la mesa del comedor diciendo que el día de la catástrofe el ejército se los llevó a un lugar a salvo.&lt;/div&gt;&lt;div&gt;¿Qué haces ahora?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.-Restauras la puerta , descansas unos días y buscas ese lugar donde está el ejército.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Esa misma noche ya vate diriges hacia ese lugar seguro.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="480" width="720" height="360" as="geometry" />
+          <mxGeometry x="1650" y="480" width="720" height="370" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--11" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="3400" y="70" width="380" height="210" as="geometry" />
@@ -183,7 +183,7 @@
           <mxGeometry x="4240" y="600" width="480" height="270" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--42" value="&lt;h1&gt;&lt;span&gt;Buscando al ejército&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Buscando entre calles , te encuentras con un numeroso grupo de supervivientes (12)&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;y ya que tienen en el mismo propósito no les importa, además tienen cierta información de que se van a reunir en el sur de la ciudad dentro de 3 días para recoger supervivientes.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;¿Qué decides ?&lt;/div&gt;&lt;div&gt;1.-&lt;/div&gt;Decides ir con tu amigo y en recompensa por la información les das un par de latas de comida.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.- Ir en grupo.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="1022.5" width="500" height="235" as="geometry" />
+          <mxGeometry x="1690" y="1000" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uLf2W3OkuAJnaL3Q7dk--44" target="uLf2W3OkuAJnaL3Q7dk--63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -235,7 +235,7 @@
           <mxGeometry x="3110" y="920" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--54" value="&lt;h1&gt;Sin munición&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Decide darle todo lo que tienes en ese momento, y te vuelves para tu apartamento, tienes suerte ya que por el camino de vuelta no hubo zombies.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBackgroundColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="2695" y="970" width="190" height="120" as="geometry" />
+          <mxGeometry x="2660" y="970" width="225" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--55" value="&lt;h1&gt;Huida&lt;/h1&gt;&lt;div&gt;Intentas huir , pero te intenta apuñalar de tal manera que no te queda otra y los matas. Ya de paso coges los víveres y armas que tuvieran y te vuelves.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;labelBackgroundColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="3150" y="960" width="190" height="120" as="geometry" />
@@ -340,10 +340,10 @@
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.359;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="uLf2W3OkuAJnaL3Q7dk--103" target="l0OJAWfN0QNwZ4EXdsEu-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--103" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--103" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;align=center;fillColor=#f0a30a;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="80" y="1450" width="610" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="uLf2W3OkuAJnaL3Q7dk--104" value="Al contarle la verdad se enfadan tanto que te matan y empieza una masacre entre familias." style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="uLf2W3OkuAJnaL3Q7dk--104" value="Al contarle la verdad se enfadan tanto que te matan y empieza una masacre entre familias." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="1520" width="510" height="180" as="geometry" />
         </mxCell>
         <mxCell id="uLf2W3OkuAJnaL3Q7dk--107" value="La mentira&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
