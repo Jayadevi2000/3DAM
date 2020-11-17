@@ -107,7 +107,7 @@ public class Marcos2 extends JFrame {
 				.addGroup(layout.createSequentialGroup().addGap(500, 500, 500).addComponent(jButton1)
 						.addContainerGap(513, Short.MAX_VALUE))
 				.addGroup(layout.createSequentialGroup().addContainerGap()
-						
+						.addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
 						.addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE,
 								Short.MAX_VALUE)
 						
@@ -115,7 +115,7 @@ public class Marcos2 extends JFrame {
 								Short.MAX_VALUE)
 						
 						.addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE,
-								Short.MAX_VALUE)
+								Short.MAX_VALUE))
 						.addContainerGap())
 				);
 		layout.setVerticalGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -144,9 +144,14 @@ public class Marcos2 extends JFrame {
 		this.jPanel1.setLayout(new GridLayout(1, 20));
 
 		array1 = new int[20];
+		array2 = new int[20];
+		array3 = new int[20];
 
 		for (int i = 0; i < 20; i++) {
 			array1[i] = (int) (Math.random() * 100);
+			array2[i]=array1[i];
+			array3[i]=array2[i];
+
 		}
 
 		for (int i = 0; i < 20; i++) {
@@ -157,12 +162,7 @@ public class Marcos2 extends JFrame {
 
 		this.jPanel2.setLayout(new GridLayout(1, 20));
 
-		array2 = new int[20];
-
-		for (int i = 0; i < 20; i++) {
-			array2[i] = (int) (Math.random() * 100);
-		}
-
+		
 		for (int i = 0; i < 20; i++) {
 			JButton boton = new JButton(String.valueOf(array2[i]));
 			boton.setBackground(Color.white);
@@ -171,12 +171,7 @@ public class Marcos2 extends JFrame {
 
 		this.jPanel3.setLayout(new GridLayout(1, 20));
 
-		array3 = new int[20];
-
-		for (int i = 0; i < 20; i++) {
-			array3[i] = (int) (Math.random() * 100);
-		}
-
+		
 		for (int i = 0; i < 20; i++) {
 			JButton boton = new JButton(String.valueOf(array3[i]));
 			boton.setBackground(Color.white);
