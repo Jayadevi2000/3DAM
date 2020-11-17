@@ -14,7 +14,7 @@ public class HiloPlantilla3 extends Thread{
 		        this.panel = panel;
 		        this.array = array;
 	  }
-	//Método de ordenación
+	//MÃ©todo de ordenaciÃ³n
 			public void run() {
 				
 				
@@ -37,9 +37,11 @@ public class HiloPlantilla3 extends Thread{
 			int tmp;
 			tmp = array2[i];
 			array2[i] = array2[j];
+			 ((JButton) panel.getComponent(i)).setText(Integer.toString(array2[i]));
+				((JButton)panel.getComponent(i)).setBackground(Color.pink);
+			array2[j] =  tmp; /* intercambia a[i] con a[j] */
 			 ((JButton) panel.getComponent(j)).setText(Integer.toString(array2[j]));
 				((JButton)panel.getComponent(j)).setBackground(Color.pink);
-			array2[j] =  tmp; /* intercambia a[i] con a[j] */
 			 
 			i++;
 			j--;
