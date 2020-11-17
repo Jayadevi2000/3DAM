@@ -34,12 +34,12 @@ public class HiloPlantilla2 extends Thread{
 		
 				 ((JButton) panel.getComponent(j)).setText(Integer.toString(array[j]));
 					((JButton)panel.getComponent(j)).setBackground(Color.YELLOW);
-				/*	try {
-						Thread.sleep(500);
+						try {
+						Thread.sleep(300);
 					} catch (InterruptedException e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();
-					}*/
+					}
 				}
 				
 				array[j] = aux;
