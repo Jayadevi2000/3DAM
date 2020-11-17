@@ -16,23 +16,34 @@ public class HiloPlantilla extends Thread
 		        this.panel = panel;
 		        this.A = array;
 	  }
-	//Método de ordenación
+	//MÃ©todo de ordenaciÃ³n
 			public void run() {
 
 				int j, k, aux;
 				String pasada = "";
-				for (k = 0; k < A.length; k++) {
-					for (j = 1; j < A.length; j++) {
-						if (A[j] < A[j - 1]) {
+				for (k = 0; k < A.length; k++) 
+				{
+					
+					for (j = 1; j < A.length; j++)
+					{
+						
+						if (A[j] < A[j - 1]) 
+						{
 							aux = A[j];
+							
 							A[j] = A[j - 1];
 							A[j - 1] = aux;
+							((JButton) panel.getComponent(j-1)).setText(Integer.toString(A[j-1]));
+							((JButton)panel.getComponent(j-1)).setBackground(Color.CYAN);
+							
+							((JButton) panel.getComponent(j)).setText(Integer.toString(A[j]));
+							((JButton)panel.getComponent(j)).setBackground(Color.CYAN);
 						//	System.out.println("A[j]=" + A[j] + " A[j-1]=" + A[j - 1] + " AUX=" + aux);
 							
 							try {
-								 ((JButton) panel.getComponent(j)).setText(Integer.toString(A[j]));
-									((JButton)panel.getComponent(j)).setBackground(Color.CYAN);
-								Thread.sleep(500);
+								 
+									
+								Thread.sleep(300);
 							} catch (InterruptedException e) {
 								// TODO Auto-generated catch block
 								e.printStackTrace();
