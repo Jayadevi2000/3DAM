@@ -8,11 +8,14 @@ import javax.swing.JButton;
 
 public class Hilo extends Thread implements ActionListener{
     JButton rueda,parar;
-    
+    private int numero;
    
     Hilo(JButton rueda,JButton parar){
         this.rueda = rueda;
         this.parar = parar;
+    }
+    public int getNumero() {
+    	return this.numero;
     }
    
     public void run(){
@@ -27,13 +30,16 @@ public class Hilo extends Thread implements ActionListener{
                 i=4;
             }
             i++;
+            this.numero= i-1;
         }
     }
     
     @Override
     public void actionPerformed(ActionEvent e) {
         if(e.getSource()==parar){
+
             this.stop();
         }    
     }
+
 }
