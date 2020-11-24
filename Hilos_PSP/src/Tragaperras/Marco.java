@@ -5,6 +5,7 @@ import java.awt.EventQueue;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
@@ -18,6 +19,9 @@ public class Marco extends JFrame
     private javax.swing.JButton Imagen;
     private javax.swing.JButton Imagen2;
     private javax.swing.JButton Inicio;
+    private  Hilo h1 ;
+    private  Hilo h2 ;
+    private  Hilo h3 ;
     // End of variables declaration//GEN-END:variables
     /**
      * Creates new form Ventana
@@ -164,29 +168,43 @@ public class Marco extends JFrame
 
     private void InicioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_InicioActionPerformed
         
-        Hilo h1 = new Hilo(Imagen,Button1);
-        Hilo h2 = new Hilo(Imagen2,Button2);
-        Hilo h3 = new Hilo(Image3,Button3);
+         h1 = new Hilo(Imagen,Button1);
+         h2 = new Hilo(Imagen2,Button2);
+         h3 = new Hilo(Image3,Button3);
         
         h1.start();
         h2.start();
         h3.start();
-
         
     }//GEN-LAST:event_InicioActionPerformed
 
     private void Button1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button1ActionPerformed
-      
+    		h1.actionPerformed(evt);
+    		bingo();
+
     }//GEN-LAST:event_Button1ActionPerformed
 
     private void Button2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button2ActionPerformed
-        // TODO add your handling code here:
+		h2.actionPerformed(evt);
+		bingo();
+
+
     }//GEN-LAST:event_Button2ActionPerformed
 
     private void Button3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Button3ActionPerformed
-        // TODO add your handling code here:
+		h3.actionPerformed(evt);
+		bingo();
+    
     }//GEN-LAST:event_Button3ActionPerformed
 
+    public void bingo() {
+    	if(!h1.isAlive() && !h2.isAlive() && !h3.isAlive()) {
+    		if(h1.getNumero()==h2.getNumero()  && h2.getNumero()==h3.getNumero()) {
+    			JOptionPane.showConfirmDialog(this, "BINGO");
+    		}
+    	}
+    }
+    
     /**
      * @param args the command line arguments
      */
